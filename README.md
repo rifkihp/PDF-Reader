@@ -7,10 +7,10 @@ Dengan mengguakan element Image View yang dibuat dengan Class terpisah dengan fi
 Konstruski File.
 
 Source:
-app\src\main\java\com\application\pdfreader
-Action.java
-MainActivity.java
-PDFimage.java
+app\src\main\java\com\application\pdfreader\
+Action.java\
+MainActivity.java\
+PDFimage.java\
 
 Layout:
 app\src\main\res\layout
