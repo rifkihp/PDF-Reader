@@ -31,4 +31,5 @@ clickednext.png\
 Tampilan:\
 ![image](https://github.com/rifkihp/PDF-Reader/assets/4156883/11c2c7ff-50bf-4e03-9f25-498242a1589a)
 
+<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/rifkihp/PDF-Reader/assets/4156883/11c2c7ff-50bf-4e03-9f25-498242a1589a" width="200" />
 
